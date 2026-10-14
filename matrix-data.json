@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "members": [
+    {
+      "id": "11c035e8-dae1-40e5-8758-924dccbddf49",
+      "name": "Marcel Konings"
+    },
+    {
+      "id": "799e4962-a22b-4adc-ace7-5de7ed21dbc0",
+      "name": "Twan Biessen"
+    },
+    {
+      "id": "cfc197c0-f551-4d0a-ac60-ecf218c1b6de",
+      "name": "Ali Kilic"
+    },
+    {
+      "id": "d31d426d-c878-4749-beea-96754dae557e",
+      "name": "Devika Jiawan"
+    },
+    {
+      "id": "fce237f8-5192-4582-9443-512d7d50700b",
+      "name": "Mihail Nisipeanu"
+    },
+    {
+      "id": "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57",
+      "name": "Henk Jan Tempelaar"
+    },
+    {
+      "id": "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa",
+      "name": "Tom Peters"
+    },
+    {
+      "id": "5af7aa89-43dd-4538-bf4c-1c1659193583",
+      "name": "Reetish Jagdeo"
+    },
+    {
+      "id": "a05dc433-9a5e-4f8a-ad65-78205f41cab7",
+      "name": "Noah de Groot"
+    }
+  ],
+  "skills": [
+    {
+      "id": "13d64ece-e349-4858-83a1-3761f3bb9fc9",
+      "name": "EFEP"
+    },
+    {
+      "id": "695256da-1a02-4d4b-967b-4f2329f0f3eb",
+      "name": "DMS"
+    },
+    {
+      "id": "507dd0c0-cc56-4598-82d7-565fdb31f937",
+      "name": "SQL Server"
+    },
+    {
+      "id": "ae61402c-6cd0-4eed-b614-c911603b90f2",
+      "name": "PowerShell scripts"
+    },
+    {
+      "id": "0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a",
+      "name": "Windows Server"
+    },
+    {
+      "id": "71556889-8612-4dd8-86cb-39bd9b360e17",
+      "name": "HIS"
+    },
+    {
+      "id": "1cd31880-d418-4e43-a0ec-f3d3d74d5d3b",
+      "name": "Forecasting"
+    },
+    {
+      "id": "a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa",
+      "name": "DERMS"
+    },
+    {
+      "id": "e3306dd5-3a85-4ae5-a976-00ea692d5ba0",
+      "name": "Kubernetes"
+    }
+  ],
+  "ratings": {
+    "11c035e8-dae1-40e5-8758-924dccbddf49|13d64ece-e349-4858-83a1-3761f3bb9fc9": 5,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "11c035e8-dae1-40e5-8758-924dccbddf49|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "799e4962-a22b-4adc-ace7-5de7ed21dbc0|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "cfc197c0-f551-4d0a-ac60-ecf218c1b6de|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "d31d426d-c878-4749-beea-96754dae557e|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "fce237f8-5192-4582-9443-512d7d50700b|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "a17c3910-8fd1-4b2e-b1fd-c83a1017dc57|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "0b78cbe6-0cee-4c8b-b953-b9387c4dbeaa|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|13d64ece-e349-4858-83a1-3761f3bb9fc9": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|695256da-1a02-4d4b-967b-4f2329f0f3eb": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|507dd0c0-cc56-4598-82d7-565fdb31f937": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|ae61402c-6cd0-4eed-b614-c911603b90f2": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|71556889-8612-4dd8-86cb-39bd9b360e17": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 0,
+    "5af7aa89-43dd-4538-bf4c-1c1659193583|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 0,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|13d64ece-e349-4858-83a1-3761f3bb9fc9": 1,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|695256da-1a02-4d4b-967b-4f2329f0f3eb": 2,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|507dd0c0-cc56-4598-82d7-565fdb31f937": 3,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|ae61402c-6cd0-4eed-b614-c911603b90f2": 4,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|0e45efd6-a9d3-4d1b-8d77-8ca66939cb6a": 5,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|71556889-8612-4dd8-86cb-39bd9b360e17": 1,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|1cd31880-d418-4e43-a0ec-f3d3d74d5d3b": 2,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|a9cdc66f-4b4b-45c8-a9ff-7836b36b89fa": 3,
+    "a05dc433-9a5e-4f8a-ad65-78205f41cab7|e3306dd5-3a85-4ae5-a976-00ea692d5ba0": 4
+  }
+}
